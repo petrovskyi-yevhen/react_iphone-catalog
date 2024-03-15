@@ -1,9 +1,7 @@
-# React TypeScript Starter Pack
+# React Phone Catalog
 
-To use this template click `Use this template`
+## [Layout](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?type=design&node-id=25-324&mode=design&t=eJxwvEVtKAOAPGRq-0)
 
-### Available Scripts
+## [DEMO LINK](https://petrovskyi-yevhen.github.io/react_iphone-catalog/)
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Was used TypeScript, React Redux, Redux Toolkit, Swiper, SCSS, and BEM
